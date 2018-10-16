@@ -8,3 +8,12 @@ div
 	margin-right: 20px;
 	margin-left: 20px;
 	}
+img
+	{
+	Float: center;
+	}
+.header {
+	background-color: #000000;
+	text-align: center;
+	padding: 20px;
+	}
