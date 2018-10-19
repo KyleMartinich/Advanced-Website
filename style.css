@@ -8,13 +8,15 @@ div
 	margin-right: 100px;
 	margin-left: 100px;
 	}
-.img
-	{
-	Align: center;
-	}
 .header {
 	background-color: #00fffa;
 	text-align: center;
 	padding: 20px;
 	border: 2px solid black;
 	}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
