@@ -9,6 +9,10 @@ div
 	margin-right: 100px;
 	margin-left: 100px;
 	}
+.topnav {
+	overflow: hidden;
+	background-color: #333;
+}
 .header {
 	background-color: #00fffa;
 	text-align: center;
