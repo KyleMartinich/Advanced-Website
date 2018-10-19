@@ -11,13 +11,13 @@ div
 	}
 .topnav {
 	overflow: hidden;
-	background-color: #333;
+	background-color: #00fffa;
 }
 }
 .topnav a {
 	float: left;
 	display: block;
-	color: #f2f2f2;
+	color: black;
 	text-align: center;
 	padding: 14px 16px;
 	text-decorator: none;
@@ -25,7 +25,7 @@ div
 .header {
 	background-color: #00fffa;
 	text-align: center;
-	padding: 20px;
+	padding: 5px;
 	border: 2px solid black;
 	}
 .center {
