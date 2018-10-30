@@ -3,6 +3,7 @@ body {
 	Background-color: #09ef8f;
 	text-align: center;
 }
+/*Body is centered and the color*/
 div
 	{
 	margin-top: 30px;
@@ -10,10 +11,12 @@ div
 	margin-right: 30px;
 	margin-left: 30px;
 	}
+/*Margins for the site*/
 .topnav {
 	overflow: hidden;
 	background-color: #00fffa;
 }
+/*Set the navigation bar to same color and to overlap*/
 }
 .topnav a {
 	float: left;
@@ -23,18 +26,21 @@ div
 	padding: 14px 16px;
 	text-decorator: none;
 }
+/*Navigation bar constrainta*/
 .header {
 	background-color: #00fffa;
 	text-align: center;
 	padding: 5px;
 	border: 2px solid black;
 	}
+/*The syle for the header*/
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+/*Anything that has this will be centered*/
 .footer {
     width: 100%;
     text-align: center;
@@ -42,6 +48,7 @@ div
 .column1{
 	float: center;
 }
+/*Set this column into the center with only a quarter width*/
 .column1.side{
 		width: 25%;
 }
@@ -51,6 +58,7 @@ div
 .column2{
 	float: center;
 }
+/* Set this column in the center with 45 percent width*/
 .column2.side{
 		width: 45%;
 }
@@ -59,6 +67,7 @@ div
 .column3{
 	float: center;
 }
+/*Set this column in the center with less width*/
 .column3.side{
 		width: 33%;
 }
